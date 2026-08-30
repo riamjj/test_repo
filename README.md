@@ -1,2 +1,2 @@
 My first repo
-edited by other editor
+edited by another editor
